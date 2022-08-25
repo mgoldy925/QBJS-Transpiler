@@ -11,7 +11,7 @@ This python program will compile a QB64 program (and hence a QBasic program) int
 ### Usage
 
 To use the transpiler, you must do the following:
-1. Download the (qbjs_transpiler folder)[qbjs_transpiler].
+1. Download the [qbjs_transpiler folder](qbjs_transpiler).
 2. Install python [here](https://www.python.org/downloads/) or using the command for your operating system.
 3. Navigate to the directory containing the file inside the qbjs_transpiler folder.
 4. Run the [qbjs_transpiler.py](qbjs_transpiler/qbjs_transpiler.py) file with the syntax `python qbjs_transpiler.py <input_filename> <output_filename>`.  Make sure to include the extensions!
